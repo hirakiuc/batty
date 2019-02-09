@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Corne Classic"
-Date "2018-08-24"
-Rev "2.0"
-Comp "foostan"
+Title "batty classic"
+Date "2018-12-09"
+Rev "0.2"
+Comp "hirakiuc"
 Comment1 ""
 Comment2 ""
 Comment3 ""
