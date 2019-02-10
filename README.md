@@ -1,19 +1,12 @@
 # Batty Keyboard
 
-Batty keyboard is a split keyboard modified the crkbd-classic, added two keys.
-
-Thanks for @foostan!
+Batty keyboard is a split keyboard modified the [foostan/crkbd](https://github.com/foostan/crkbd), added two keys.
 
 ## Layout
 
-Batty has new two keys from crkbd-classic.
-
-TBD: Add image.
+batty-classic has new two keys from crkbd-classic.
 
 ## Firmware
 
 This keyboard use qmk_firmare.
 
-# Refs
-
-- https://github.com/foostan/crkbd
