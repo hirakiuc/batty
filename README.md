@@ -1,5 +1,8 @@
 # Batty Keyboard
 
+![batty-logo](./images/black_logo.png?raw=true)
+
+
 The batty keyboard is a split keyboard which based on the [foostan/crkbd](https://github.com/foostan/crkbd).
 
 ## Layout
