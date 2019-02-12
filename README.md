@@ -1,10 +1,10 @@
 # Batty Keyboard
 
-Batty keyboard is a split keyboard modified the [foostan/crkbd](https://github.com/foostan/crkbd), added two keys.
+The batty keyboard is a split keyboard which based on the [foostan/crkbd](https://github.com/foostan/crkbd).
 
 ## Layout
 
-batty-classic has new two keys from crkbd-classic.
+batty-classic has new two keys to each side from crkbd-classic.
 
 ![batty-classic-pcb](./images/batty-classic-pcb.png?raw=true)
 
@@ -12,6 +12,9 @@ batty-classic has new two keys from crkbd-classic.
 
 This keyboard use qmk_firmare.
 But not merged to [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware), yet.
+
+The batty firmware is under development on https://github.com/hirakiuc/qmk_firmware/tree/master/keyboards/batty
+(Yes, README is same with crkbd yet...)
 
 # Copyrights
 
