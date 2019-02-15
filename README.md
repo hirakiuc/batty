@@ -17,7 +17,8 @@ This keyboard use qmk_firmare.
 But not merged to [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware), yet.
 
 The batty firmware is under development on https://github.com/hirakiuc/qmk_firmware/tree/master/keyboards/batty
-(Yes, README is same with crkbd yet...)
+
+(Yes, The README of firmware is same with crkbd yet...)
 
 # Copyrights
 
