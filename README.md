@@ -11,6 +11,12 @@ batty-classic has new two keys to each side from crkbd-classic.
 
 ![batty-classic-pcb](./images/batty-classic-pcb.png?raw=true)
 
+![batty-classic-pcb-reverse](./images/batty-pcb-board.png?raw=true)
+
+![batty-with-black-keycaps](./images/batty-with-black-keycaps.png?raw=true)
+
+![batty-with-orange-white-keycaps](./images/batty-orange-white-keycaps.png?raw=true)
+
 ## Firmware
 
 This keyboard use qmk_firmare.
